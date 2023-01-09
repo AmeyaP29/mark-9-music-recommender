@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100;200;300;400;500;600;700;800&display=swap");
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+* {
+  font-family: "Martian Mono", monospace;
+}
+
+body {
+  background-image: url("https://wallpaperaccess.com/full/4876620.jpg");
+}
+
+#navigationList {
+  list-style: none;
+  margin: 4rem;
+  cursor: pointer;
+  /* background-color: rgba(0, 0, 0, 0.788); */
+}
+
+hr {
+  background-color: black;
+  height: 0.5rem;
+  border: none;
+}
+
+.nav-pills {
+  display: inline;
+  border: none;
+  background-color: grey;
+  padding: 1rem;
+  margin: 2rem 1rem;
+  background-color: rgba(0, 0, 0, 0.788);
+  color: white;
+  font-weight: bolder;
+  width: fit-content;
+  border-radius: 1rem;
+}
+
+.nav-pills:hover {
+  background-color: white;
+  color: black;
+}
+
+#recommendationList {
+  list-style-type: none;
+}
+
+#outputBoxes {
+  /* border: 2px red solid; */
+  padding: 2rem;
+  border-radius: 1rem;
+  margin: 2rem;
+  background-color: rgba(0, 0, 0, 0.788);
+  color: white;
+}
+
+#main-title {
+  background-color: rgba(0, 0, 0, 0.788);
+  color: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  margin: 2rem auto;
+  width: fit-content;
+}
+
+#sub-title {
+  background-color: rgba(0, 0, 0, 0.788);
+  color: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  margin: 2rem auto;
+  width: fit-content;
+}
+
+#link {
+  display: block;
+  margin: 1rem;
+  text-decoration: none;
+  color: goldenrod;
+}
+
+#link:hover {
+  color: rgb(230, 230, 122);
+}
