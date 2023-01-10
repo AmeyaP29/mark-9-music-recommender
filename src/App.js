@@ -6,264 +6,264 @@ const musicLib = {
     {
       songName: "Apni tasveer ko aankhoon se lagata kya hai",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=xUaeNexxdqk"
+      link: "https://www.youtube.com/watch?v=xUaeNexxdqk",
     },
 
     {
       songName: "Koi Fariyaad",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=8MN2bxMiB9A"
+      link: "https://www.youtube.com/watch?v=8MN2bxMiB9A",
     },
 
     {
       songName: "Humko kiske gham ne maara",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=DTUFbcg09to"
+      link: "https://www.youtube.com/watch?v=DTUFbcg09to",
     },
 
     {
       songName: "Ranjish hi sahi",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=pba_YmWDAIU"
+      link: "https://www.youtube.com/watch?v=pba_YmWDAIU",
     },
 
     {
       songName: "Hoshwaalon ko khabar kya",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=hZuwe72Rtcc"
+      link: "https://www.youtube.com/watch?v=hZuwe72Rtcc",
     },
 
     {
       songName: "Seene mein jalan",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=u2_phT5vCP0"
-    }
+      link: "https://www.youtube.com/watch?v=u2_phT5vCP0",
+    },
   ],
 
   jpop: [
     {
       songName: "Stay with Me",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=M0qMgoChzGI"
+      link: "https://www.youtube.com/watch?v=M0qMgoChzGI",
     },
 
     {
       songName: "Koi No Yokan",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=j2NN6z42z0U"
+      link: "https://www.youtube.com/watch?v=j2NN6z42z0U",
     },
 
     {
       songName: "Wine Red no Kokoro",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=kdksI3--M_g"
+      link: "https://www.youtube.com/watch?v=kdksI3--M_g",
     },
 
     {
       songName: "Ano Umi Ni",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=fK1iCxuW-G0"
+      link: "https://www.youtube.com/watch?v=fK1iCxuW-G0",
     },
 
     {
       songName: "Help me",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=u5xYdkMiV6Q"
+      link: "https://www.youtube.com/watch?v=u5xYdkMiV6Q",
     },
 
     {
       songName: "Plastic Love",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=T_lC2O1oIew"
+      link: "https://www.youtube.com/watch?v=T_lC2O1oIew",
     },
 
     {
       songName: "Flyday Chinatown",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=4X7ZvpwBiKA"
-    }
+      link: "https://www.youtube.com/watch?v=4X7ZvpwBiKA",
+    },
   ],
   marathi: [
     {
       songName: "Ye re Ghana",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=h0E-PsR1-9I"
+      link: "https://www.youtube.com/watch?v=h0E-PsR1-9I",
     },
 
     {
       songName: "Dayaghana",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=mDdVNt3DQfw"
+      link: "https://www.youtube.com/watch?v=mDdVNt3DQfw",
     },
 
     {
       songName: "Naka Sodun Zau Rang Mahal",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=uSoKCYNOoDo"
+      link: "https://www.youtube.com/watch?v=uSoKCYNOoDo",
     },
 
     {
       songName: "Jeev Rangala",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=gtDPLOVPjkA"
+      link: "https://www.youtube.com/watch?v=gtDPLOVPjkA",
     },
 
     {
       songName: "Apsara Aali",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=mW67u_hWiSo"
+      link: "https://www.youtube.com/watch?v=mW67u_hWiSo",
     },
 
     {
       songName: "Bai Ga",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=3oZVDRiV2ek"
+      link: "https://www.youtube.com/watch?v=3oZVDRiV2ek",
     },
 
     {
       songName: "Chandra",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=r6tU3GvJ5so"
+      link: "https://www.youtube.com/watch?v=r6tU3GvJ5so",
     },
 
     {
       songName: "Jaadugari",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=Tx3WdxjXM-M"
+      link: "https://www.youtube.com/watch?v=Tx3WdxjXM-M",
     },
 
     {
       songName: "Majhya Raja Ra",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=nCvaPWoFEl8"
+      link: "https://www.youtube.com/watch?v=nCvaPWoFEl8",
     },
 
     {
       songName: "Ude ga Ambe",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=-rZVieAPulA"
-    }
+      link: "https://www.youtube.com/watch?v=-rZVieAPulA",
+    },
   ],
 
   telugu: [
     {
       songName: "Pranavalaya",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=4CKFAb1FNns"
+      link: "https://www.youtube.com/watch?v=4CKFAb1FNns",
     },
 
     {
       songName: "Samajavaragamana",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=OCg6BWlAXSw"
+      link: "https://www.youtube.com/watch?v=OCg6BWlAXSw",
     },
 
     {
       songName: "Ramulo Ramula",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=Bg8Yb9zGYyA"
+      link: "https://www.youtube.com/watch?v=Bg8Yb9zGYyA",
     },
 
     {
       songName: "Buttabomma",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=2mDCVzruYzQ"
+      link: "https://www.youtube.com/watch?v=2mDCVzruYzQ",
     },
 
     {
       songName: "Naatu Naatu",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=OsU0CGZoV8E"
-    }
+      link: "https://www.youtube.com/watch?v=OsU0CGZoV8E",
+    },
   ],
 
   korean: [
     {
       songName: "One Day",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=OrNlfoKGPJI"
+      link: "https://www.youtube.com/watch?v=OrNlfoKGPJI",
     },
 
     {
       songName: "Day and Night",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=Bol6PsSSgRU"
+      link: "https://www.youtube.com/watch?v=Bol6PsSSgRU",
     },
 
     {
       songName: "Someday, the boy",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=txFeihoczb0"
+      link: "https://www.youtube.com/watch?v=txFeihoczb0",
     },
 
     {
       songName: "Dear Moon",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=13vs5NfHSBs"
+      link: "https://www.youtube.com/watch?v=13vs5NfHSBs",
     },
 
     {
       songName: "If You",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=hkStCKeLlec"
+      link: "https://www.youtube.com/watch?v=hkStCKeLlec",
     },
 
     {
       songName: "Eyes, Nose, Lips",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=UwuAPyOImoI"
-    }
+      link: "https://www.youtube.com/watch?v=UwuAPyOImoI",
+    },
   ],
 
   romantic: [
     {
       songName: "Chasing Cars",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=CHao9mL2tM8"
+      link: "https://www.youtube.com/watch?v=CHao9mL2tM8",
     },
 
     {
       songName: "Something",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=UelDrZ1aFeY"
+      link: "https://www.youtube.com/watch?v=UelDrZ1aFeY",
     },
 
     {
       songName: "Yesterday",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=Nnumx-LN-EQ"
+      link: "https://www.youtube.com/watch?v=Nnumx-LN-EQ",
     },
 
     {
       songName: "Jackie and Wilson",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=NMLhdYjxbCs"
+      link: "https://www.youtube.com/watch?v=NMLhdYjxbCs",
     },
 
     {
       songName: "Alag Aasman",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=vA86QFrXoho"
+      link: "https://www.youtube.com/watch?v=vA86QFrXoho",
     },
 
     {
       songName: "Marasim",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=KqplybLnjqc"
+      link: "https://www.youtube.com/watch?v=KqplybLnjqc",
     },
 
     {
       songName: "Bewajah",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=o1VvgO7RNXg"
+      link: "https://www.youtube.com/watch?v=o1VvgO7RNXg",
     },
 
     {
       songName: "Jaan-e-bahara",
       rating: "5/5",
-      link: "https://www.youtube.com/watch?v=BTf68TSLGH4"
-    }
-  ]
+      link: "https://www.youtube.com/watch?v=BTf68TSLGH4",
+    },
+  ],
 };
 
 // let [currentGenre, setCurrentGenre] = useState("ghazals");
@@ -387,7 +387,7 @@ export default function App() {
 
           musicLib[currentGenre].map((recommendation) => {
             return (
-              <li>
+              <li key={recommendation.songName}>
                 <div id="outputBoxes">
                   <h3> {recommendation.songName} </h3>{" "}
                   <small> Rating: {recommendation.rating} </small>
