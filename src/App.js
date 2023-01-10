@@ -11,25 +11,25 @@ const musicLib = {
 
     {
       songName: "Koi Fariyaad",
-      rating: "5/5",
+      rating: "4.2/5",
       link: "https://www.youtube.com/watch?v=8MN2bxMiB9A",
     },
 
     {
       songName: "Humko kiske gham ne maara",
-      rating: "5/5",
+      rating: "3.5/5",
       link: "https://www.youtube.com/watch?v=DTUFbcg09to",
     },
 
     {
       songName: "Ranjish hi sahi",
-      rating: "5/5",
+      rating: "3.2/5",
       link: "https://www.youtube.com/watch?v=pba_YmWDAIU",
     },
 
     {
       songName: "Hoshwaalon ko khabar kya",
-      rating: "5/5",
+      rating: "4.5/5",
       link: "https://www.youtube.com/watch?v=hZuwe72Rtcc",
     },
 
@@ -43,7 +43,7 @@ const musicLib = {
   jpop: [
     {
       songName: "Stay with Me",
-      rating: "5/5",
+      rating: "4/5",
       link: "https://www.youtube.com/watch?v=M0qMgoChzGI",
     },
 
@@ -55,13 +55,13 @@ const musicLib = {
 
     {
       songName: "Wine Red no Kokoro",
-      rating: "5/5",
+      rating: "4/5",
       link: "https://www.youtube.com/watch?v=kdksI3--M_g",
     },
 
     {
       songName: "Ano Umi Ni",
-      rating: "5/5",
+      rating: "4.6/5",
       link: "https://www.youtube.com/watch?v=fK1iCxuW-G0",
     },
 
@@ -79,38 +79,38 @@ const musicLib = {
 
     {
       songName: "Flyday Chinatown",
-      rating: "5/5",
+      rating: "4.3/5",
       link: "https://www.youtube.com/watch?v=4X7ZvpwBiKA",
     },
   ],
   marathi: [
     {
       songName: "Ye re Ghana",
-      rating: "5/5",
+      rating: "4/5",
       link: "https://www.youtube.com/watch?v=h0E-PsR1-9I",
     },
 
     {
       songName: "Dayaghana",
-      rating: "5/5",
+      rating: "4/5",
       link: "https://www.youtube.com/watch?v=mDdVNt3DQfw",
     },
 
     {
       songName: "Naka Sodun Zau Rang Mahal",
-      rating: "5/5",
+      rating: "4.1/5",
       link: "https://www.youtube.com/watch?v=uSoKCYNOoDo",
     },
 
     {
       songName: "Jeev Rangala",
-      rating: "5/5",
+      rating: "4.4/5",
       link: "https://www.youtube.com/watch?v=gtDPLOVPjkA",
     },
 
     {
       songName: "Apsara Aali",
-      rating: "5/5",
+      rating: "4.5/5",
       link: "https://www.youtube.com/watch?v=mW67u_hWiSo",
     },
 
@@ -122,19 +122,19 @@ const musicLib = {
 
     {
       songName: "Chandra",
-      rating: "5/5",
+      rating: "4.2/5",
       link: "https://www.youtube.com/watch?v=r6tU3GvJ5so",
     },
 
     {
       songName: "Jaadugari",
-      rating: "5/5",
+      rating: "4.3/5",
       link: "https://www.youtube.com/watch?v=Tx3WdxjXM-M",
     },
 
     {
       songName: "Majhya Raja Ra",
-      rating: "5/5",
+      rating: "3.9/5",
       link: "https://www.youtube.com/watch?v=nCvaPWoFEl8",
     },
 
@@ -154,25 +154,25 @@ const musicLib = {
 
     {
       songName: "Samajavaragamana",
-      rating: "5/5",
+      rating: "4/5",
       link: "https://www.youtube.com/watch?v=OCg6BWlAXSw",
     },
 
     {
       songName: "Ramulo Ramula",
-      rating: "5/5",
+      rating: "3.8/5",
       link: "https://www.youtube.com/watch?v=Bg8Yb9zGYyA",
     },
 
     {
       songName: "Buttabomma",
-      rating: "5/5",
+      rating: "3.9/5",
       link: "https://www.youtube.com/watch?v=2mDCVzruYzQ",
     },
 
     {
       songName: "Naatu Naatu",
-      rating: "5/5",
+      rating: "4.7/5",
       link: "https://www.youtube.com/watch?v=OsU0CGZoV8E",
     },
   ],
@@ -186,31 +186,31 @@ const musicLib = {
 
     {
       songName: "Day and Night",
-      rating: "5/5",
+      rating: "4/5",
       link: "https://www.youtube.com/watch?v=Bol6PsSSgRU",
     },
 
     {
       songName: "Someday, the boy",
-      rating: "5/5",
+      rating: "3.5/5",
       link: "https://www.youtube.com/watch?v=txFeihoczb0",
     },
 
     {
       songName: "Dear Moon",
-      rating: "5/5",
+      rating: "4.2/5",
       link: "https://www.youtube.com/watch?v=13vs5NfHSBs",
     },
 
     {
       songName: "If You",
-      rating: "5/5",
+      rating: "3.7/5",
       link: "https://www.youtube.com/watch?v=hkStCKeLlec",
     },
 
     {
       songName: "Eyes, Nose, Lips",
-      rating: "5/5",
+      rating: "3.7/5",
       link: "https://www.youtube.com/watch?v=UwuAPyOImoI",
     },
   ],
@@ -224,13 +224,13 @@ const musicLib = {
 
     {
       songName: "Something",
-      rating: "5/5",
+      rating: "3.6/5",
       link: "https://www.youtube.com/watch?v=UelDrZ1aFeY",
     },
 
     {
       songName: "Yesterday",
-      rating: "5/5",
+      rating: "4/5",
       link: "https://www.youtube.com/watch?v=Nnumx-LN-EQ",
     },
 
@@ -248,13 +248,13 @@ const musicLib = {
 
     {
       songName: "Marasim",
-      rating: "5/5",
+      rating: "4/5",
       link: "https://www.youtube.com/watch?v=KqplybLnjqc",
     },
 
     {
       songName: "Bewajah",
-      rating: "5/5",
+      rating: "4.1/5",
       link: "https://www.youtube.com/watch?v=o1VvgO7RNXg",
     },
 
