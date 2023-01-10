@@ -325,7 +325,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1 id="main-title">MelodyMatch</h1>
+      <h1 id="main-title">Melody Match</h1>
       <h2 id="sub-title">
         Do you like music just as much as I do!? Click on one of the genres
         below to get some awesome song recommendations
